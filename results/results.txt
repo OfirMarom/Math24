@@ -1,0 +1,212 @@
+Mean
+0 1 feature precision 0.76
+0 1 feature recall 0.0052098422438985855
+0 1 feature f1_score 0.010337509099906437
+0 1 feature mrr 0.76
+0 1 feature ndcg 0.76
+0 1 latent precision 0.8333333333333334
+0 1 latent recall 0.006091645367480869
+0 1 latent f1_score 0.012076086824193703
+0 1 latent mrr 0.8333333333333334
+0 1 latent ndcg 0.8333333333333334
+0 2 feature precision 0.7216666666666667
+0 2 feature recall 0.009891904442715219
+0 2 feature f1_score 0.019474953498485808
+0 2 feature mrr 0.8116666666666668
+0 2 feature ndcg 0.7303412847786851
+0 2 latent precision 0.8283333333333334
+0 2 latent recall 0.01207177634277918
+0 2 latent f1_score 0.023724796107979198
+0 2 latent mrr 0.875
+0 2 latent ndcg 0.8294648052609878
+0 3 feature precision 0.7011111111111111
+0 3 feature recall 0.0144766488396269
+0 3 feature f1_score 0.028276667190683624
+0 3 feature mrr 0.8227777777777778
+0 3 feature ndcg 0.7138364505248125
+0 3 latent precision 0.8188888888888888
+0 3 latent recall 0.017700900535955837
+0 3 latent f1_score 0.03450734873536669
+0 3 latent mrr 0.8794444444444445
+0 3 latent ndcg 0.8225512021232954
+0 4 feature precision 0.7058333333333333
+0 4 feature recall 0.01982152015190541
+0 4 feature f1_score 0.03837438921575133
+0 4 feature mrr 0.8386111111111111
+0 4 feature ndcg 0.7148727129127609
+0 4 latent precision 0.8158333333333333
+0 4 latent recall 0.02336176331337764
+0 4 latent f1_score 0.04518153318097334
+0 4 latent mrr 0.8852777777777778
+0 4 latent ndcg 0.8198805743121612
+0 5 feature precision 0.7040000000000001
+0 5 feature recall 0.024430872177545908
+0 5 feature f1_score 0.046964370731836305
+0 5 feature mrr 0.8399444444444445
+0 5 feature ndcg 0.7124839872038489
+0 5 latent precision 0.806
+0 5 latent recall 0.02856622689704324
+0 5 latent f1_score 0.05483786454438848
+0 5 latent mrr 0.8859444444444444
+0 5 latent ndcg 0.8128986394347996
+1 1 feature precision 0.5066666666666666
+1 1 feature recall 0.015644572266890082
+1 1 feature f1_score 0.02926025743832645
+1 1 feature mrr 0.5066666666666666
+1 1 feature ndcg 0.5066666666666666
+1 1 latent precision 0.6866666666666666
+1 1 latent recall 0.025636056923772722
+1 1 latent f1_score 0.047208021262202506
+1 1 latent mrr 0.6866666666666666
+1 1 latent ndcg 0.6866666666666666
+1 2 feature precision 0.4616666666666667
+1 2 feature recall 0.028600498348950777
+1 2 feature f1_score 0.05175163992324553
+1 2 feature mrr 0.5616666666666666
+1 2 feature ndcg 0.4718499140155579
+1 2 latent precision 0.6566666666666666
+1 2 latent recall 0.04722108181758886
+1 2 latent f1_score 0.08280027469233299
+1 2 latent mrr 0.7300000000000001
+1 2 latent ndcg 0.6634554982325942
+1 3 feature precision 0.44222222222222224
+1 3 feature recall 0.04171966091609114
+1 3 feature f1_score 0.07194316884508896
+1 3 feature mrr 0.5894444444444444
+1 3 feature ndcg 0.455773227168563
+1 3 latent precision 0.6333333333333332
+1 3 latent recall 0.06604846186588924
+1 3 latent f1_score 0.11237238937011476
+1 3 latent mrr 0.7433333333333334
+1 3 latent ndcg 0.645437815707577
+1 4 feature precision 0.4375
+1 4 feature recall 0.056943737311443865
+1 4 feature f1_score 0.0937742888085372
+1 4 feature mrr 0.6186111111111111
+1 4 feature ndcg 0.4503191877411493
+1 4 latent precision 0.6258333333333332
+1 4 latent recall 0.08557039586171236
+1 4 latent f1_score 0.14109949193805021
+1 4 latent mrr 0.7541666666666667
+1 4 latent ndcg 0.6383588928200246
+1 5 feature precision 0.42333333333333323
+1 5 feature recall 0.06828692600977436
+1 5 feature f1_score 0.10945715387490702
+1 5 feature mrr 0.6279444444444444
+1 5 feature ndcg 0.43934355222946897
+1 5 latent precision 0.6053333333333333
+1 5 latent recall 0.10075906363072036
+1 5 latent f1_score 0.16194823200939487
+1 5 latent mrr 0.7555
+1 5 latent ndcg 0.6232669553716729
+Mean2
+0 feature precision 0.7185222222222223
+0 feature recall 0.014766157571138406
+0 feature f1_score 0.028685577947332695
+0 feature mrr 0.8146000000000001
+0 feature ndcg 0.7263068870840215
+0 latent precision 0.8204777777777779
+0 latent recall 0.017558462491327354
+0 latent f1_score 0.034065525878580284
+0 latent mrr 0.8718
+0 latent ndcg 0.8236257108929156
+1 feature precision 0.4542777777777777
+1 feature recall 0.04223907897063005
+1 feature f1_score 0.07123730177802104
+1 feature mrr 0.5808666666666668
+1 feature ndcg 0.46479050956428114
+1 latent precision 0.6415666666666666
+1 latent recall 0.0650470120199367
+1 latent f1_score 0.10908568185441907
+1 latent mrr 0.7339333333333333
+1 latent ndcg 0.651437165759707
+dbrx-instruct no_context length 478.7466666666666
+dbrx-instruct no_context accuracy 0.02
+dbrx-instruct no_context faithfulness 0.02331746031746032
+dbrx-instruct no_context negative_rejection 0.008333333333333333
+dbrx-instruct context length 762.1766666666666
+dbrx-instruct context accuracy 0.039999999999999994
+dbrx-instruct context faithfulness 0.04426846100759144
+dbrx-instruct context negative_rejection 0.03222222222222222
+dbrx-instruct rag length 671.0
+dbrx-instruct rag accuracy 0.15
+dbrx-instruct rag faithfulness 0.19080249701988833
+dbrx-instruct rag negative_rejection 0.050555555555555555
+
+Llama-3-70b-chat-hf no_context length 346.84666666666664
+Llama-3-70b-chat-hf no_context accuracy 0.06
+Llama-3-70b-chat-hf no_context faithfulness 0.07170719618545705
+Llama-3-70b-chat-hf no_context negative_rejection 0.029166666666666664
+Llama-3-70b-chat-hf context length 503.4133333333333
+Llama-3-70b-chat-hf context accuracy 0.12333333333333334
+Llama-3-70b-chat-hf context faithfulness 0.14772175167827342
+Llama-3-70b-chat-hf context negative_rejection 0.05694444444444444
+Llama-3-70b-chat-hf rag length 450.93999999999994
+Llama-3-70b-chat-hf rag accuracy 0.5333333333333332
+Llama-3-70b-chat-hf rag faithfulness 0.6942114938201895
+Llama-3-70b-chat-hf rag negative_rejection 0.15861111111111112
+
+Meta-Llama-3.1-405B-Instruct-Turbo no_context length 1853.78
+Meta-Llama-3.1-405B-Instruct-Turbo no_context accuracy 0.33999999999999997
+Meta-Llama-3.1-405B-Instruct-Turbo no_context faithfulness 0.2909917811656942
+Meta-Llama-3.1-405B-Instruct-Turbo no_context negative_rejection 0.47297619047619055
+Meta-Llama-3.1-405B-Instruct-Turbo context length 2031.0733333333337
+Meta-Llama-3.1-405B-Instruct-Turbo context accuracy 0.3
+Meta-Llama-3.1-405B-Instruct-Turbo context faithfulness 0.329222849614154
+Meta-Llama-3.1-405B-Instruct-Turbo context negative_rejection 0.23797619047619048
+Meta-Llama-3.1-405B-Instruct-Turbo rag length 1411.3333333333335
+Meta-Llama-3.1-405B-Instruct-Turbo rag accuracy 0.6133333333333333
+Meta-Llama-3.1-405B-Instruct-Turbo rag faithfulness 0.7376287721939895
+Meta-Llama-3.1-405B-Instruct-Turbo rag negative_rejection 0.3353571428571428
+
+Meta-Llama-3.1-70B-Instruct-Turbo no_context length 1956.8899999999999
+Meta-Llama-3.1-70B-Instruct-Turbo no_context accuracy 0.17
+Meta-Llama-3.1-70B-Instruct-Turbo no_context faithfulness 0.1601070330635548
+Meta-Llama-3.1-70B-Instruct-Turbo no_context negative_rejection 0.1787301587301587
+Meta-Llama-3.1-70B-Instruct-Turbo context length 1718.0166666666664
+Meta-Llama-3.1-70B-Instruct-Turbo context accuracy 0.2533333333333333
+Meta-Llama-3.1-70B-Instruct-Turbo context faithfulness 0.2964707949055775
+Meta-Llama-3.1-70B-Instruct-Turbo context negative_rejection 0.13555555555555554
+Meta-Llama-3.1-70B-Instruct-Turbo rag length 1365.1966666666667
+Meta-Llama-3.1-70B-Instruct-Turbo rag accuracy 0.4533333333333333
+Meta-Llama-3.1-70B-Instruct-Turbo rag faithfulness 0.5624279440366396
+Meta-Llama-3.1-70B-Instruct-Turbo rag negative_rejection 0.1875
+
+Meta-Llama-3.1-8B-Instruct-Turbo no_context length 2038.56
+Meta-Llama-3.1-8B-Instruct-Turbo no_context accuracy 0.10666666666666666
+Meta-Llama-3.1-8B-Instruct-Turbo no_context faithfulness 0.0964387351778656
+Meta-Llama-3.1-8B-Instruct-Turbo no_context negative_rejection 0.12444444444444444
+Meta-Llama-3.1-8B-Instruct-Turbo context length 2560.9066666666668
+Meta-Llama-3.1-8B-Instruct-Turbo context accuracy 0.006666666666666666
+Meta-Llama-3.1-8B-Instruct-Turbo context faithfulness 0.004545454545454545
+Meta-Llama-3.1-8B-Instruct-Turbo context negative_rejection 0.01
+Meta-Llama-3.1-8B-Instruct-Turbo rag length 2028.6133333333335
+Meta-Llama-3.1-8B-Instruct-Turbo rag accuracy 0.14333333333333337
+Meta-Llama-3.1-8B-Instruct-Turbo rag faithfulness 0.19425114499027543
+Meta-Llama-3.1-8B-Instruct-Turbo rag negative_rejection 0.02777777777777778
+
+Mixtral-8x7B-Instruct-v0.1 no_context length 314.60333333333335
+Mixtral-8x7B-Instruct-v0.1 no_context accuracy 0.07333333333333333
+Mixtral-8x7B-Instruct-v0.1 no_context faithfulness 0.07528439676265762
+Mixtral-8x7B-Instruct-v0.1 no_context negative_rejection 0.057222222222222216
+Mixtral-8x7B-Instruct-v0.1 context length 576.6366666666667
+Mixtral-8x7B-Instruct-v0.1 context accuracy 0.04
+Mixtral-8x7B-Instruct-v0.1 context faithfulness 0.03641709015622059
+Mixtral-8x7B-Instruct-v0.1 context negative_rejection 0.04928571428571429
+Mixtral-8x7B-Instruct-v0.1 rag length 448.60333333333335
+Mixtral-8x7B-Instruct-v0.1 rag accuracy 0.14666666666666667
+Mixtral-8x7B-Instruct-v0.1 rag faithfulness 0.20462507058159232
+Mixtral-8x7B-Instruct-v0.1 rag negative_rejection 0.021111111111111112
+
+Qwen2-72B-Instruct no_context length 1388.11
+Qwen2-72B-Instruct no_context accuracy 0.16666666666666666
+Qwen2-72B-Instruct no_context faithfulness 0.15143020264759394
+Qwen2-72B-Instruct no_context negative_rejection 0.19412698412698412
+Qwen2-72B-Instruct context length 1373.65
+Qwen2-72B-Instruct context accuracy 0.22000000000000003
+Qwen2-72B-Instruct context faithfulness 0.24052713470104775
+Qwen2-72B-Instruct context negative_rejection 0.16257936507936507
+Qwen2-72B-Instruct rag length 1102.4066666666665
+Qwen2-72B-Instruct rag accuracy 0.47333333333333333
+Qwen2-72B-Instruct rag faithfulness 0.592129117259552
+Qwen2-72B-Instruct rag negative_rejection 0.18178571428571427
